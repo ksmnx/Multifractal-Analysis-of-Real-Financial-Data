@@ -5,3 +5,4 @@ __pycache__/
 .matplotlib_cache/
 .pytest_cache/
 .mypy_cache/
+requirements.txt
