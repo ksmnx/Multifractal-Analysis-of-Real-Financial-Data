@@ -56,8 +56,6 @@ From the project root:
 
 ```bash
 python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
-
 .venv/bin/python scripts/01_download_quotes.py
 .venv/bin/python scripts/02_prepare_returns.py
 .venv/bin/python scripts/03_make_exploratory_figures.py
